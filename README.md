@@ -28,6 +28,3 @@ Para calcular tus notas de presentación, se tomará en cuenta la ponderación d
 ```
 Nota de presentación = (Nota Unidad 1 * Ponderación Unidad 1) + (Nota Unidad 2 * Ponderación Unidad 2)
 ```
-
-Recuerda que las notas de presentación son importantes para evaluar tu desempeño en el curso.
-
